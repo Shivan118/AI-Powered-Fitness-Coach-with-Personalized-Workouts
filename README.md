@@ -10,6 +10,8 @@ This project, AI-Powered Fitness Coach, solves this problem by using AI (OpenAI)
 
 With this project, anyone can get a custom fitness plan and coaching for free using AI! 
 
+<img src="Arch/arch.png" alt="Workflow Diagram">
+
 ### Installation Steps
 
 **1.  Clone the project**
